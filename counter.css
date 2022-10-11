@@ -1,0 +1,25 @@
+body{
+    width: min(100% - 15px,840px);
+    margin-inline:auto;
+    height: auto;
+    font-style: italic;
+}
+.container-fluid h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+#span{
+    position: relative;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
